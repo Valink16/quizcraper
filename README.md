@@ -1,4 +1,9 @@
 # quizcraper
-Scraper for Quizlet
+This is an unofficial API for Quizlet
 
-Get a webdriver for Firefox and for you OS, and replace geckodriver with it 
+# Abilities
+Currently, the API is very limited:
+- Get terms from quiz and save them to file
+
+# Installation
+Just get yourself the Firefox webdriver(other any other, but don't forget to change the code)
